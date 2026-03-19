@@ -2,3 +2,16 @@
     box-sizing: border-box;
 }
 
+h1{
+    text-align:center ;
+    background-color:cornflowerblue;
+    border-style: groove;
+    border-color:white ;
+    border-width: 20px ;
+    padding: 20px ;
+}
+body {
+    background-color: cornflowerblue;
+}
+
+
